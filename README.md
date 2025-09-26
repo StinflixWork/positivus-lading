@@ -2,7 +2,7 @@
 
 Цей проєкт — верстка навчального/портфоліо сайту за готовим макетом із Figma Community.
 
-- 🎨 Дизайн: [Positivus Landing Page Design](https://www.figma.com/community/file/1230604708032389430/positivus-landing-page-design)
+- Дизайн: [Positivus Landing Page Design](https://www.figma.com/community/file/1230604708032389430/positivus-landing-page-design)
 - Автор дизайну: [Olga](https://olgaskuja.design/)
 - Розробник: [Vlad Podparinov](https://t.me/stinflix)
 - Деплой: https://positivus-lading.vercel.app/
